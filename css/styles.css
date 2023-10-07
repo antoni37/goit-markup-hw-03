@@ -1,3 +1,4 @@
+@import 'node_modules/modern-normalize/modern-normalize.css';
 :root {
   --main-text-color: #434455;
   --headers-color: #2e2f42;
