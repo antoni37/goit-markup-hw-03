@@ -240,9 +240,11 @@ ul {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-.title-list{
+.title-list-two{
   display: flex; 
   gap: 24px; 
+}
+.title-list{
   width: calc((100% - 72px) / 4); 
 }
 .title-two{
