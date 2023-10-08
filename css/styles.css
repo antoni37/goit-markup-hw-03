@@ -291,5 +291,15 @@ text-align: center;
 .person{
    width: calc((100% - 48px) / 3);
 }
+.background{
+  padding: 100px 0
+}
+.link-block {
+  display: inline-block;
+  margin-bottom: 16px;
+}
+.second-paragraph {
+  max-width: 264px;
+}
 
 
