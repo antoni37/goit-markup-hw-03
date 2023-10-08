@@ -185,7 +185,7 @@ ul {
   border-bottom: 1px solid #e7e9fc;
 }
 .first{
-  display: flex;
+   display: flex;
 }
 .container{
   width: 1158px;
@@ -269,7 +269,7 @@ img {
   width: calc((100% - 48px) / 3);
 
 }
-.for-section{
+.four-section{
 padding: 120px 0 ;
 }
 .title-four{
