@@ -247,6 +247,7 @@ ul {
   list-style: none;
   margin: 0;
   padding-left: 0;
+  width: calc((100% - 72px) / 4);
 }
 .title-list{
   width: calc((100% - 72px) / 4); 
