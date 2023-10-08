@@ -292,7 +292,7 @@ text-align: center;
    width: calc((100% - 48px) / 3);
 }
 .background{
-  padding: 100px 0
+  padding: 100px 0;
 }
 .link-block {
   display: inline-block;
