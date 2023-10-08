@@ -288,8 +288,8 @@ padding: 120px 0 ;
 .paragraph{
 text-align: center; 
 }
-.img-list{
-width: calc((100% - 48px) / 3);
+.person{
+   width: calc((100% - 48px) / 3);
 }
 
 
