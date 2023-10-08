@@ -249,7 +249,7 @@ ul {
   padding-left: 0;
 }
 .title-list{
-  width: calc((100% - 72px) / 4); 
+  width: calc(100% - 72px) / 4; 
 }
 .title-two{
   margin-bottom: 8px; 
