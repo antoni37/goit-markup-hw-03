@@ -212,8 +212,7 @@ ul {
   display: flex; 
   gap: 40px;
 } 
-.first-section{padding: 188px 0 ;
-}
+.first-section{padding: 188px 0;}
 .title{ max-width: 496px; 
 }
 .first-button{
