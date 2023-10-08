@@ -184,7 +184,7 @@ ul {
 .header{
   border-bottom: 1px solid #e7e9fc;
 }
-.container{
+.first{
   display: flex;
 }
 .container{
@@ -240,6 +240,9 @@ ul {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+img {
+  display: block;
+}
 .list-two{
   gap: 24px; 
 }
@@ -258,9 +261,7 @@ ul {
 .third-section{
   padding-bottom: 120px;
 }
-.img-list{
-  width: calc((100% - 48px) / 3);
-}
+
 
 .title-list-two{
   margin-bottom: 72px;
