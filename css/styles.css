@@ -182,7 +182,7 @@ ul {
 
 .header{
   border-bottom: 1px solid #e7e9fc;
-  padding: 72px;
+  padding: 24px 0;
 }
 .first{
    display: flex;
@@ -197,7 +197,7 @@ ul {
   display: flex;
   gap: 40px;
   margin-left: auto;
-  padding-bottom: 24px;
+
 }
 .navi-list {
   display: flex;
