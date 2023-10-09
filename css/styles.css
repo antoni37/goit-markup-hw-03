@@ -5,6 +5,11 @@
   --footer-background-color: #2e2f42;
   --logo-color: #4d5ae5;
 }
+* { 
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+} 
 body {
   font-family: 'Roboto', sans-serif;
   color: var(--main-text-color);
@@ -183,6 +188,7 @@ ul {
 
 .header{
   border-bottom: 1px solid #e7e9fc;
+  padding: 72px;
 }
 .first{
    display: flex;
@@ -249,7 +255,7 @@ img {
   list-style: none;
   margin: 0;
   padding-left: 0;
-  width: calc((100% - 72px) / 4);
+ 
 }
 .title-list{
   width: calc((100% - 72px) / 4); 
@@ -286,9 +292,6 @@ padding: 120px 0 ;
 }
 .paragraph{
 text-align: center; 
-}
-.person{
-   width: calc((100% - 48px) / 3);
 }
 .background{
   padding: 100px 0;
